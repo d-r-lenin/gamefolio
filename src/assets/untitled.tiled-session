@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maps/home-land.tmj",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "SERENE_VILLAGE_REVAMPED/tilesets/village.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "maps/home-land.tmj": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 225,
+                "y": 346
+            }
+        }
+    },
+    "last.exportedFilePath": "D:/rprojrcts/gamefolio/src/assets/maps",
+    "last.imagePath": "D:/rprojrcts/gamefolio/src/assets/SERENE_VILLAGE_REVAMPED",
+    "map.fixedSize": false,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "maps/home-land.tmj",
+        "SERENE_VILLAGE_REVAMPED/tilesets/village.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "SERENE_VILLAGE_REVAMPED/tilesets/village.tsx",
+        "maps/home-land.tmj"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.transparentColor": "#aaaa7f",
+    "tileset.useTransparentColor": true
+}

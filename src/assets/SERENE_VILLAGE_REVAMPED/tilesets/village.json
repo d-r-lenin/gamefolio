@@ -1,0 +1,15 @@
+{ "columns":19,
+ "image":"..\/SERENE_VILLAGE_REVAMPED\/Serene_Village_32x32.png",
+ "imageheight":1440,
+ "imagewidth":608,
+ "margin":0,
+ "name":"village",
+ "spacing":0,
+ "tilecount":855,
+ "tiledversion":"1.10.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#aaaa7f",
+ "type":"tileset",
+ "version":"1.10"
+}

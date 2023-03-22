@@ -11,5 +11,5 @@ export default {
   title: 'Phaser 3 with Parcel 📦',
   url: 'https://github.com/samme/phaser-parcel',
   banner: { text: 'white', background: ['#FD7400', '#FFE11A', '#BEDB39', '#1F8A70', '#004358'] },
-  scene: [BootScene, MenuScene, PlayScene, EndScene]
+  scene: [PlayScene]
 };

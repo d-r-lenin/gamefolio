@@ -20,4 +20,8 @@ export default class MenuScene extends Phaser.Scene {
       this.scene.switch('play');
     }, this);
   }
+  
+  update(){
+    this.scene.switch('play');
+  }
 }

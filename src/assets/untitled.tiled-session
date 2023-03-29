@@ -3,13 +3,13 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "tilemaps/home.tmx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
         "": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.75
         },
         "SERENE_VILLAGE_REVAMPED/tilesets/village.tsx": {
             "scaleInDock": 0.5,
@@ -36,12 +36,15 @@
             "expandedGroupLayers": [
                 8
             ],
-            "scale": 0.25,
-            "selectedLayer": 4,
+            "scale": 0.33,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 3410,
-                "y": 1028
+                "x": 3989.393939393939,
+                "y": 1872.7272727272727
             }
+        },
+        "tilemaps/home.tmx#street": {
+            "scaleInEditor": 1
         },
         "tilemaps/home.tmx#village": {
             "scaleInEditor": 1
@@ -49,6 +52,9 @@
         "tilemaps/home.tmx#village48": {
             "scaleInDock": 0.5,
             "scaleInEditor": 0.33
+        },
+        "tilemaps/home.tmx#woodTiles": {
+            "scaleInDock": 1
         },
         "tilesets/village48.json": {
             "scaleInDock": 1
@@ -89,5 +95,5 @@
         "width": 48
     },
     "tileset.transparentColor": "#aaaa7f",
-    "tileset.useTransparentColor": true
+    "tileset.useTransparentColor": false
 }
